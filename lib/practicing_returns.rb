@@ -9,8 +9,8 @@ def hello(array)
 
     i += 1
   end
-  print collection
-  print array
+  collection
+
 end
 
 
