@@ -9,7 +9,7 @@ def hello(array)
 
     i += 1
   end
-  puts collection
+  print collection
 end
 
 
